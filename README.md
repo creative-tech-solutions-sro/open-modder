@@ -7,10 +7,13 @@ OpenModder gives the agent a repeatable method instead of improvising: search pr
 install, pick the cheapest route that reaches the idea, back up first, read the actual code, ship one
 vertical slice, verify against the running game, then package and write down what was learned.
 
+<img width="1365" height="768" alt="openmodder_banner" src="https://github.com/user-attachments/assets/001b565c-ee04-4750-817e-1550f55a1415" />
+
+
 ```text
 @openmodder  Mod Terraria: add a homing missile launcher and a tactical nuke that craters the world.
 @openmodder  What engine is C:\Games\Foo, and has anyone modded it before?
-@openmodder  Put the Warthog from my Halo install into Minecraft, with a gunner on the turret.
+@openmodder  Put GTA V into Minecraft, with a with all GTA NPCs and functions on the Minecraft map.
 ```
 
 ## The loop
@@ -96,6 +99,10 @@ and point the skill at it — see [`docs/toolkit.md`](docs/toolkit.md):
 ```bash
 uv tool install git+https://github.com/creative-tech-solutions-sro/open-modder
 ```
+
+Example: Put GTA V into Minecraft, with a with all GTA NPCs and functions on the Minecraft map.
+```
+<img width="3365" height="1368" alt="GTA_Minecraft_example" src="https://github.com/user-attachments/assets/c7be8c9e-2b84-45ec-95b0-b3fbc36a4604" />
 
 ## License
 
