@@ -106,5 +106,4 @@ Example: Put GTA V into Minecraft, with a with all GTA NPCs and functions on the
 
 ## License
 
-MIT — see [`LICENSE`](LICENSE). Derived from [open-modder](https://github.com/creative-tech-solutions-sro/open-modder)
-(MIT); its knowledge base and full engine playbooks remain in that project.
+MIT — see [`LICENSE`](LICENSE).
